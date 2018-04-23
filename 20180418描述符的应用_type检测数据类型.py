@@ -1,4 +1,8 @@
-
+"""
+    数字描述符 与 非数字描述符的区别，优先级不同哦
+    优先级是：
+    数字描述符  >  非数字描述符   >  实例字典 
+    """
 class Typed:
     # def __init__(self,key):
     def __init__(self,key,expected_type):
