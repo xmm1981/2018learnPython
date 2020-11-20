@@ -1,0 +1,18 @@
+PyCharm设置改变字体大小的快捷键
+File->Settings
+
+https://images2015.cnblogs.com/blog/1092823/201701/1092823-20170119224338750-1757367337.png
+
+在搜索框搜索increase
+
+点击Increase Font Size（增大字体）右键选择Add Mouse Shortcut
+
+
+
+然后按Ctrl并且鼠标滚轮往上滚。
+
+
+
+同理可以设置减小字体【设置减小字体时，在搜索框内输入decrease】
+
+learn a little every day
