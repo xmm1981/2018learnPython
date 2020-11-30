@@ -20,7 +20,7 @@ class FrenchDeck:
 def spades_high(card):
     rank_value = FrenchDeck.ranks.index(card.牌面)
     return rank_value * len(suit_values) + suit_values[card.花色]
-
+  
 deck = FrenchDeck()
 # print("随机选择了：")
 # print(choice(deck))
